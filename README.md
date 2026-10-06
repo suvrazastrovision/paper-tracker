@@ -2,6 +2,8 @@
 
 A simple scientific reading list built with HTML, CSS, and JavaScript. No installation or build step.
 
+Tutorial: [Read on Medium](https://medium.com/@suvranath047/7b6997074582).
+
 ## Run locally
 
 With Python 3 installed, run from this folder:
