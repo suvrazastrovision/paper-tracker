@@ -1,6 +1,6 @@
-# Paper Tracker
+# Scientific Paper Tracker
 
-A simple scientific reading list built with OpenSpec as demo tutorial.
+A simple scientific reading list built with OpenSpec for a demo tutorial.
 
 Tutorial: [Read on Medium](https://medium.com/@suvranath047/7b6997074582).
 
