@@ -4,6 +4,8 @@ A simple scientific reading list built with OpenSpec for a demo tutorial.
 
 Tutorial: [Read on Medium](https://medium.com/@suvranath047/7b6997074582).
 
+![Paper Tracker showing two example papers](assets/screenshot.png)
+
 ## Run locally
 
 With Python 3 installed, run from this folder:
