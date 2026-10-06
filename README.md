@@ -1,6 +1,6 @@
 # Paper Tracker
 
-A simple scientific reading list built with HTML, CSS, and JavaScript. No installation or build step.
+A simple scientific reading list built with OpenSpec as demo tutorial.
 
 Tutorial: [Read on Medium](https://medium.com/@suvranath047/7b6997074582).
 
