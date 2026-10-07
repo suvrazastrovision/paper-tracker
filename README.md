@@ -1,3 +1,5 @@
+![Built with OpenSpec](https://img.shields.io/badge/Built%20with-OpenSpec-6366F1)
+
 # Scientific Paper Tracker
 
 A simple scientific reading list built with OpenSpec for a demo tutorial.
