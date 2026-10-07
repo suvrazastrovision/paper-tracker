@@ -1,4 +1,4 @@
-![Built with OpenSpec](https://img.shields.io/badge/Built%20with-OpenSpec-6366F1)
+[![Built with OpenSpec](https://img.shields.io/badge/Built%20with-OpenSpec-6366F1)](https://github.com/Fission-AI/OpenSpec.git)
 
 # Scientific Paper Tracker
 
